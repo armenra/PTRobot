@@ -5,3 +5,5 @@ Goal: Move all the blocks on the left most stack to the proper positions, blocks
 Bars max size: 7
 
 Blocks max size: 3
+
+Bonus: Ensure the blocks are moved to their locations with maximum efficiency
